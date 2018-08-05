@@ -1,2 +1,2 @@
-# test_eos_contract
-test eos contract
+# 测试自动化购买eos3dio12345合约的key
+
